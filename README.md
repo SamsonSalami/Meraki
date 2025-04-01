@@ -3,6 +3,7 @@
 ## How to synchronize Apple school account to Meraki
 1.	Login to https://school.apple.com/ ,  with the apple school manager account. 
 2.	Click on the profile below and then preferences, click on the payment and billing, Download the Content token below for Redeemer Lutheran College, Biloela.
+![Apple school](./Appleschool.PNG)
 
  
 
