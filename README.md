@@ -16,3 +16,4 @@
  
 5.	In the MDM page, scroll down to the Apple VPP accounts and click “Add account”. Upload the file you downloaded from Apple School account and add.
 
+![Add Vpp Account](./Add-Vpp-Account.png)
