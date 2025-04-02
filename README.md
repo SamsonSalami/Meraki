@@ -1,4 +1,4 @@
-# Meraki
+# Meraki1
 
 ## How to synchronize Apple school account to Meraki
 1.	Login to https://school.apple.com/ ,  with the apple school manager account. 
